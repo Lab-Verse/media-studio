@@ -1,0 +1,20 @@
+name: Validate public source
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  source:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python scripts/validate_studio.py
+      - run: python scripts/validate_repository.py
+      - run: python -m unittest discover -s runtime/documentary_engine/tools -p test_comfy_pipeline.py
+      - run: python -m unittest discover -s runtime/documentary_engine/tests -p test_render_short.py
+      - run: python -m unittest discover -s runtime/documentary_engine/tests -p test_music_boundary.py

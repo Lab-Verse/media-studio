@@ -1,0 +1,5 @@
+shot_id,scene_id,seconds,method,description,camera,asset_ids,dialogue_ids,vertical_note
+S01-010,S01,4,generated,Hallway lights and Mariam stops in the doorway,35 mm wide static from room,AS001;AS002;AS006,,Separate portrait composition holds doorway at center
+S01-020,S01,6,hybrid,Mariam asks where Bilal was,50 mm medium door side with Bilal looking frame left,AS001;AS002;AS005,D001,Keep her eyeline and leave lower caption space
+S01-030,S01,7,hybrid,Bilal answers and opens his fist,50 mm reverse matching axis with Mariam frame right,AS001;AS003;AS004;AS005,D002,Frame a tighter separate take that preserves the hand reveal
+S01-040,S01,7,generated,Plain key lands on shelf and both hold,75 mm insert and restrained fixed camera,AS001;AS004,,Place key above the lower caption area and hold for the cut

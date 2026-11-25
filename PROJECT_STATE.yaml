@@ -1,0 +1,14 @@
+project: media-studio
+organization: Lab-Verse
+updated: 2026-11-25
+phase: public_source_snapshot
+crew_roles: 13
+skill_definitions: 9
+workflow_documentation: included
+documentary_runtime_source: included
+drive_intake: planned_not_implemented
+unattended_coordinator: planned_not_qualified
+youtube_api_delivery: planned_not_implemented
+local_validation: see_docs_VERIFICATION
+spark_requalification: required_before_rendering
+publication: user_authorized_public_github_repository

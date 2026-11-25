@@ -1,0 +1,21 @@
+{
+  "project_metadata": {
+    "project_id": "studio_smoke",
+    "video_title": "Media Studio synthetic fixture",
+    "video_description": "Synthetic diagnostic, not a production film or inference benchmark.",
+    "thumbnail_prompt": "Abstract studio fixture",
+    "target_resolution": "1920x1080",
+    "fps": 30,
+    "default_ducking_db": -14,
+    "tags": ["fixture"]
+  },
+  "chapters": [{
+    "chapter_id": "fixture",
+    "chapter_title": "Synthetic fixture",
+    "music_prompt": "Synthetic diagnostic tone",
+    "scenes": [
+      {"scene_id": "fixture_01", "narration": "Synthetic fixture one.", "timestamp_overlay": "FIXTURE 01", "pause_after_seconds": 0.5, "visual": {"preferred_source": "wikimedia", "query": "forest landscape", "ai_fallback_prompt": "A quiet forest landscape", "motion": "slow_zoom_in"}},
+      {"scene_id": "fixture_02", "narration": "Synthetic fixture two.", "timestamp_overlay": "FIXTURE 02", "pause_after_seconds": 0.5, "visual": {"type": "ai_cinematic", "prompt": "Abstract fixture two", "motion": "slow_pan_right"}}
+    ]
+  }]
+}

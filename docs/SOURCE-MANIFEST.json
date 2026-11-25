@@ -1,0 +1,522 @@
+{
+  "snapshot_date": "2026-11-25",
+  "studio_source_commit": "97b4f08",
+  "records": [
+    {
+      "path": ".codex/agents/studio-art-director.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-art-director.toml",
+      "source_sha256": "300ef269207bb4d2f2262ce83816af056c270b06dc7a9b7b3428820cdcb3d854",
+      "published_sha256": "300ef269207bb4d2f2262ce83816af056c270b06dc7a9b7b3428820cdcb3d854"
+    },
+    {
+      "path": ".codex/agents/studio-channel-producer.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-channel-producer.toml",
+      "source_sha256": "ee5dacdb367320e24f0c61586569f767b88cf971c629e8a7f595c556c4610290",
+      "published_sha256": "ee5dacdb367320e24f0c61586569f767b88cf971c629e8a7f595c556c4610290"
+    },
+    {
+      "path": ".codex/agents/studio-cinematographer.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-cinematographer.toml",
+      "source_sha256": "9c44f4f387e4046df2c06e9475d042c0a35be38bc92efcf5aa1e674f548ad944",
+      "published_sha256": "9c44f4f387e4046df2c06e9475d042c0a35be38bc92efcf5aa1e674f548ad944"
+    },
+    {
+      "path": ".codex/agents/studio-creative-lead.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-creative-lead.toml",
+      "source_sha256": "57959a5638c3e94aac90c0694db5b57c59812b3300af3ca56135619f02940376",
+      "published_sha256": "57959a5638c3e94aac90c0694db5b57c59812b3300af3ca56135619f02940376"
+    },
+    {
+      "path": ".codex/agents/studio-director.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-director.toml",
+      "source_sha256": "b0771c0625ed22f3e1d9c89668069f3aa3ffb2f5e9c32460ae2f717912319fbf",
+      "published_sha256": "b0771c0625ed22f3e1d9c89668069f3aa3ffb2f5e9c32460ae2f717912319fbf"
+    },
+    {
+      "path": ".codex/agents/studio-editor.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-editor.toml",
+      "source_sha256": "8029f9b9e1065d7a028d05e3b41b31e667e5c71d755ce0514a4096d6c6675adf",
+      "published_sha256": "8029f9b9e1065d7a028d05e3b41b31e667e5c71d755ce0514a4096d6c6675adf"
+    },
+    {
+      "path": ".codex/agents/studio-producer.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-producer.toml",
+      "source_sha256": "a6252bf1e0b377e0239fb700cfa7cad1eaaa57c36bf3c22907daee843a0ca40a",
+      "published_sha256": "a6252bf1e0b377e0239fb700cfa7cad1eaaa57c36bf3c22907daee843a0ca40a"
+    },
+    {
+      "path": ".codex/agents/studio-qc.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-qc.toml",
+      "source_sha256": "7ab541ce1272ede3a4103211b5411c528b67ab0aa6d5d411a8cedcd08ffcd43c",
+      "published_sha256": "7ab541ce1272ede3a4103211b5411c528b67ab0aa6d5d411a8cedcd08ffcd43c"
+    },
+    {
+      "path": ".codex/agents/studio-rights-reviewer.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-rights-reviewer.toml",
+      "source_sha256": "c46c3ec75f516249d87b1b838acfdfc9d0a7acfcfc506274f278316e23f592d6",
+      "published_sha256": "c46c3ec75f516249d87b1b838acfdfc9d0a7acfcfc506274f278316e23f592d6"
+    },
+    {
+      "path": ".codex/agents/studio-showrunner.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-showrunner.toml",
+      "source_sha256": "77f29de0bc5fb608cc32c57cc46b4921c34951137718d814019d8bb7e5c238e5",
+      "published_sha256": "77f29de0bc5fb608cc32c57cc46b4921c34951137718d814019d8bb7e5c238e5"
+    },
+    {
+      "path": ".codex/agents/studio-sound.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-sound.toml",
+      "source_sha256": "022a74ff405c929739962831dbb3fdbaa08bca047333f56cf040c82cf9c1a9d2",
+      "published_sha256": "022a74ff405c929739962831dbb3fdbaa08bca047333f56cf040c82cf9c1a9d2"
+    },
+    {
+      "path": ".codex/agents/studio-spark-operator.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-spark-operator.toml",
+      "source_sha256": "7de346bf2baa59e1f5aa0be0e1170232cf2a553a9fc3e714f576e175e6e187d8",
+      "published_sha256": "7de346bf2baa59e1f5aa0be0e1170232cf2a553a9fc3e714f576e175e6e187d8"
+    },
+    {
+      "path": ".codex/agents/studio-writer.toml",
+      "origin": "studio",
+      "source_path": ".codex/agents/studio-writer.toml",
+      "source_sha256": "80f7735caec26295a57bdbf7f47582fb4d262a1bea312d4f5b4eaedbbee386be",
+      "published_sha256": "80f7735caec26295a57bdbf7f47582fb4d262a1bea312d4f5b4eaedbbee386be"
+    },
+    {
+      "path": ".agents/skills/studio-cinematography/SKILL.md",
+      "origin": "studio",
+      "source_path": ".agents/skills/studio-cinematography/SKILL.md",
+      "source_sha256": "e96abcc14f88acd3dd513f04cb72bbdb282fb8e0412e27225dbf5790b93eca9e",
+      "published_sha256": "e96abcc14f88acd3dd513f04cb72bbdb282fb8e0412e27225dbf5790b93eca9e"
+    },
+    {
+      "path": ".agents/skills/studio-clip-production/SKILL.md",
+      "origin": "studio",
+      "source_path": ".agents/skills/studio-clip-production/SKILL.md",
+      "source_sha256": "dd064956c15beba4019191699d863214402ebdf47e4440ae1bdb8d06bec62352",
+      "published_sha256": "dd064956c15beba4019191699d863214402ebdf47e4440ae1bdb8d06bec62352"
+    },
+    {
+      "path": ".agents/skills/studio-creative-development/SKILL.md",
+      "origin": "studio",
+      "source_path": ".agents/skills/studio-creative-development/SKILL.md",
+      "source_sha256": "8bd6f107f7dd82cb0e8a9537e3fa8a199054f9ad0c2e0f71e10952eb4652d697",
+      "published_sha256": "8bd6f107f7dd82cb0e8a9537e3fa8a199054f9ad0c2e0f71e10952eb4652d697"
+    },
+    {
+      "path": ".agents/skills/studio-post-production/SKILL.md",
+      "origin": "studio",
+      "source_path": ".agents/skills/studio-post-production/SKILL.md",
+      "source_sha256": "20cb4ca1e8926d4f8bbcea350e83b503c824e42520a62b0c2409e5aa93633461",
+      "published_sha256": "20cb4ca1e8926d4f8bbcea350e83b503c824e42520a62b0c2409e5aa93633461"
+    },
+    {
+      "path": ".agents/skills/studio-production/SKILL.md",
+      "origin": "studio",
+      "source_path": ".agents/skills/studio-production/SKILL.md",
+      "source_sha256": "106f54edca9345be988b3bc53378c5f9d2ea839c0424906e0e103dfe0eb94cfb",
+      "published_sha256": "106f54edca9345be988b3bc53378c5f9d2ea839c0424906e0e103dfe0eb94cfb"
+    },
+    {
+      "path": ".agents/skills/studio-rights-and-release/SKILL.md",
+      "origin": "studio",
+      "source_path": ".agents/skills/studio-rights-and-release/SKILL.md",
+      "source_sha256": "c0c55352b327eb0c66682b41872e83f44b0575c9e19e459359427a6702c7a8b5",
+      "published_sha256": "c0c55352b327eb0c66682b41872e83f44b0575c9e19e459359427a6702c7a8b5"
+    },
+    {
+      "path": ".agents/skills/studio-screenwriting/SKILL.md",
+      "origin": "studio",
+      "source_path": ".agents/skills/studio-screenwriting/SKILL.md",
+      "source_sha256": "5cd0a44e36c088a263901f23adf1dc86327bbc3ffa15f55821f3a1879d700dae",
+      "published_sha256": "5cd0a44e36c088a263901f23adf1dc86327bbc3ffa15f55821f3a1879d700dae"
+    },
+    {
+      "path": ".agents/skills/studio-sound-and-captions/SKILL.md",
+      "origin": "studio",
+      "source_path": ".agents/skills/studio-sound-and-captions/SKILL.md",
+      "source_sha256": "63cd6d7eaf5409ff7c0ea709b1e1cda5748ba023124a6331a128f5ee68edb647",
+      "published_sha256": "63cd6d7eaf5409ff7c0ea709b1e1cda5748ba023124a6331a128f5ee68edb647"
+    },
+    {
+      "path": ".agents/skills/studio-spark-render/SKILL.md",
+      "origin": "studio",
+      "source_path": ".agents/skills/studio-spark-render/SKILL.md",
+      "source_sha256": "4807f831bfe50c787b96e83df9f6a7360ff5ed4cd52e4eb470b54d49da04a665",
+      "published_sha256": "4807f831bfe50c787b96e83df9f6a7360ff5ed4cd52e4eb470b54d49da04a665"
+    },
+    {
+      "path": "examples/meter-room/assets.csv",
+      "origin": "studio",
+      "source_path": "examples/meter-room/assets.csv",
+      "source_sha256": "243af830e42fda05b90b8ceab88866f4559d59aa7396e1a6f85a90534e556747",
+      "published_sha256": "243af830e42fda05b90b8ceab88866f4559d59aa7396e1a6f85a90534e556747"
+    },
+    {
+      "path": "examples/meter-room/BRIEF.md",
+      "origin": "studio",
+      "source_path": "examples/meter-room/BRIEF.md",
+      "source_sha256": "6db71dc7d22914ebfef8d5aaa9f6d0dbe5d449ee2e8df026bee96f0c4f4f4a9f",
+      "published_sha256": "6db71dc7d22914ebfef8d5aaa9f6d0dbe5d449ee2e8df026bee96f0c4f4f4a9f"
+    },
+    {
+      "path": "examples/meter-room/dialogue.csv",
+      "origin": "studio",
+      "source_path": "examples/meter-room/dialogue.csv",
+      "source_sha256": "9a7e2441f3e09e41383cf38332235d38a9156e94b3323f0187dbbc90afc3a264",
+      "published_sha256": "9a7e2441f3e09e41383cf38332235d38a9156e94b3323f0187dbbc90afc3a264"
+    },
+    {
+      "path": "examples/meter-room/script.fountain",
+      "origin": "studio",
+      "source_path": "examples/meter-room/script.fountain",
+      "source_sha256": "76e687d6461d60d7320623ab256a579c453ad1e9368171e2fc6ac17d608f7c16",
+      "published_sha256": "76e687d6461d60d7320623ab256a579c453ad1e9368171e2fc6ac17d608f7c16"
+    },
+    {
+      "path": "examples/meter-room/shot-list.csv",
+      "origin": "studio",
+      "source_path": "examples/meter-room/shot-list.csv",
+      "source_sha256": "df960ce37e45449649bf2b7283a03e9c3af169cd1c663339e318e3d6a0fce9e8",
+      "published_sha256": "df960ce37e45449649bf2b7283a03e9c3af169cd1c663339e318e3d6a0fce9e8"
+    },
+    {
+      "path": "templates/GATE-RECORD.md",
+      "origin": "studio",
+      "source_path": "templates/GATE-RECORD.md",
+      "source_sha256": "31d2f546dbf6aba43f45d79a99f9b868ff7762e0fbac209e382f4fc9ae27667d",
+      "published_sha256": "31d2f546dbf6aba43f45d79a99f9b868ff7762e0fbac209e382f4fc9ae27667d"
+    },
+    {
+      "path": "docs/ARTIFACTS.md",
+      "origin": "studio",
+      "source_path": "docs/ARTIFACTS.md",
+      "source_sha256": "b89243856d237f7a45a0275236d168a1ea0e3e3299a8a7dd41a2ddfe8e853fc5",
+      "published_sha256": "b89243856d237f7a45a0275236d168a1ea0e3e3299a8a7dd41a2ddfe8e853fc5"
+    },
+    {
+      "path": "docs/CREW-AND-SKILLS.md",
+      "origin": "studio",
+      "source_path": "docs/CREW-AND-SKILLS.md",
+      "source_sha256": "f09ba5d2b100cfd390373801c342a7cc824f36a8793019523b19263efe3f0e16",
+      "published_sha256": "f09ba5d2b100cfd390373801c342a7cc824f36a8793019523b19263efe3f0e16"
+    },
+    {
+      "path": "docs/IMPLEMENTATION-PLAN.md",
+      "origin": "studio",
+      "source_path": "docs/IMPLEMENTATION-PLAN.md",
+      "source_sha256": "c3003828ee0a48befb66bf81c777c2143944a52dabf7b4d8d25fe01a19cd0a19",
+      "published_sha256": "c3003828ee0a48befb66bf81c777c2143944a52dabf7b4d8d25fe01a19cd0a19"
+    },
+    {
+      "path": "docs/research/MARKET_RESEARCH.md",
+      "origin": "studio",
+      "source_path": "docs/research/MARKET_RESEARCH.md",
+      "source_sha256": "2ae159cdd035c0326c9b5be77ed575c7a3740eda4eaf317228ff268f69c6e80e",
+      "published_sha256": "2ae159cdd035c0326c9b5be77ed575c7a3740eda4eaf317228ff268f69c6e80e"
+    },
+    {
+      "path": "docs/SPARK-RUNBOOK.md",
+      "origin": "studio",
+      "source_path": "docs/SPARK-RUNBOOK.md",
+      "source_sha256": "a9b9c57b2a13d64b3d565e651a3928f1c7f6d68205deb36265d0c43d255cd90e",
+      "published_sha256": "9b55a0b46dec3053d4b88a312ae295b6dd07908f4a14bc649bb6f22e1692fd60",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "AGENTS.md",
+      "origin": "studio",
+      "source_path": "AGENTS.md",
+      "source_sha256": "aa62a25da2d93b76ab3d5a52a511c0c93e5fa3722dd07525af90b01e3c8b6764",
+      "published_sha256": "aa62a25da2d93b76ab3d5a52a511c0c93e5fa3722dd07525af90b01e3c8b6764"
+    },
+    {
+      "path": "PROJECT.md",
+      "origin": "studio",
+      "source_path": "PROJECT.md",
+      "source_sha256": "02a4267d93cd0b6116e6d48673fdd8e641adfd3b0a8606a893b19056a6317053",
+      "published_sha256": "02a4267d93cd0b6116e6d48673fdd8e641adfd3b0a8606a893b19056a6317053"
+    },
+    {
+      "path": "DECISIONS.md",
+      "origin": "studio",
+      "source_path": "DECISIONS.md",
+      "source_sha256": "a59dcf3f792542a00981684bc68fcd41388eebfca1cc390e2502bf6ccd238ec5",
+      "published_sha256": "96f2fea8821a72de0c21b7b8741c31ae886311efb95319a97f3f1d19d3a417b3",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "RISKS.md",
+      "origin": "studio",
+      "source_path": "RISKS.md",
+      "source_sha256": "08e12798715b4ab8b173c6eb90fca650e4b853d842eccd7977b9679f80c17523",
+      "published_sha256": "08e12798715b4ab8b173c6eb90fca650e4b853d842eccd7977b9679f80c17523"
+    },
+    {
+      "path": "scripts/validate_studio.py",
+      "origin": "studio",
+      "source_path": "scripts/validate_studio.py",
+      "source_sha256": "64b0588db43a69c3764c1cd573d51f6c0471b80b1ab6e56a78bff6d781fdfaa4",
+      "published_sha256": "64b0588db43a69c3764c1cd573d51f6c0471b80b1ab6e56a78bff6d781fdfaa4"
+    },
+    {
+      "path": "runtime/documentary_engine/engine/__init__.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/__init__.py",
+      "source_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "published_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "runtime/documentary_engine/engine/ai_fallback.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/ai_fallback.py",
+      "source_sha256": "aee064beb1f91e5b36b54477cf4e61c4e08df0bb839bbc704397577197240110",
+      "published_sha256": "2ca179630949eae4f71b945ae062d8152c14d9f9952b69d361e6c432b9f49a63",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/engine/audio_mixer.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/audio_mixer.py",
+      "source_sha256": "94f79b1e9a633f0fa66a2483542af0470df5e153fc31a90fdfcdf2002ab424c1",
+      "published_sha256": "6e897edf91a070d2981e06ec20518da6e3aa6b427ff13050b3dc94cd0ec35bc0",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/engine/composer.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/composer.py",
+      "source_sha256": "6ac09da5419ff6c00d7831483008841579623a26e000d90084c1339f3d05f10a",
+      "published_sha256": "d76dcdbf1307f6cc9a3dc9f13588af2e7ed0aab40f0bb044469a49cdf8ff6e70",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/engine/hud_overlay.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/hud_overlay.py",
+      "source_sha256": "d0b61631c8eb8903483de67288a160edea448f447d58834e4f2e96aff86d3474",
+      "published_sha256": "25dd100cebc083ab14656898aa7ba0a5ea7411a13d9c2a09ee9ed79c75da9e7e",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/engine/media_fetcher.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/media_fetcher.py",
+      "source_sha256": "011d00c4b008106a6f5b10853d1b4244cebd49a88c5920d83d930cf22f3d9cbd",
+      "published_sha256": "fc8196ea2a35478c891386c930dc338fcdb657844f6ffd975fb3fca8ee36d457",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/engine/metadata_exporter.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/metadata_exporter.py",
+      "source_sha256": "98444cb5cd32ea59c344017b5aee4cd82c31ff813e42647b44d4b4c860c978a8",
+      "published_sha256": "9ed2d9180a96f0ebcead62e3c2038ae3d01b73283deb58b1e8a7890b3b2ef52b",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/engine/motion_worker.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/motion_worker.py",
+      "source_sha256": "281fe6d9fea29c2dbd7391592da67613945d7258aa3348adb4ce25eeba0943bb",
+      "published_sha256": "1e3b9cbe20cadbc1cfa639934e452c890cc914ace26763a79bf2843ec36fb126",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/engine/music_worker.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/music_worker.py",
+      "source_sha256": "1cd1a55ba6cb8757905804099decb426bb65c835bb6b1d852f23d5f102203166",
+      "published_sha256": "9dcb7ecccaaf93d2d2039034dcec1b5e18891fc88de17a9a760d6990aa8418c8",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/engine/normalizer.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/normalizer.py",
+      "source_sha256": "a6e44339b6f77db3c19cfd8f5b61c6ad557788e891920b49b7f6b5c115f22ef1",
+      "published_sha256": "fffdd4779f3f13389f5ac57a58dfdbe0d35ed0cf96a5b2b0bf0d2535e40c6dcc",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/engine/score_worker.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/score_worker.py",
+      "source_sha256": "2d6fd9c501800dce9349693093303b25c687b39d32d5ebb4039c997a4f4153d2",
+      "published_sha256": "2d6fd9c501800dce9349693093303b25c687b39d32d5ebb4039c997a4f4153d2"
+    },
+    {
+      "path": "runtime/documentary_engine/engine/subtitle_worker.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/subtitle_worker.py",
+      "source_sha256": "14c31ee73bdbcdff45e58d0420ee1caa3cf8f2131094e7a7a02cea518b8115f6",
+      "published_sha256": "f11d5a6f4d17cafdc688e46695974bf3e1538bada92bb392675fea997aab99b1",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/engine/thumbnail_worker.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/thumbnail_worker.py",
+      "source_sha256": "635e1271190b3a512f1f0cbe078866a82ba820e0e798fdb64a1d636e7667ae86",
+      "published_sha256": "635e1271190b3a512f1f0cbe078866a82ba820e0e798fdb64a1d636e7667ae86"
+    },
+    {
+      "path": "runtime/documentary_engine/engine/tts_worker.py",
+      "origin": "documentary-engine",
+      "source_path": "engine/tts_worker.py",
+      "source_sha256": "19a72af7a920ecfb7abf41ce62585b230fd6436928ecd560eab15cbbc1f873e8",
+      "published_sha256": "2fe556bc8abf1a7e88dd93871b6fb3a20596c8ec7d7de54b4a73ca6f609f7604",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/pipeline.py",
+      "origin": "documentary-engine",
+      "source_path": "pipeline.py",
+      "source_sha256": "fa4dd6ce68f7bf51e472fb655a7edaa93dafb249287c830d40004622bea0136b",
+      "published_sha256": "9c3f1a7b50c96684d294136b736ee2fb6ba867fda616012d939a33b19d0b39aa",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/requirements.txt",
+      "origin": "documentary-engine",
+      "source_path": "requirements.txt",
+      "source_sha256": "6b3cacd28aaea31d8f8d4519aeca782da921724407ae0b05623f777f57b1fa9f",
+      "published_sha256": "cf0882517040fb23b85b9efd823fc9ade324a9ce5859c5d8a31579c2714713d0",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/tools/comfy_pipeline.py",
+      "origin": "documentary-engine",
+      "source_path": "tools/comfy_pipeline.py",
+      "source_sha256": "6603d45f181f8d7ebb959976497655ec87291a296905eb87b5d8a33727996d1a",
+      "published_sha256": "6603d45f181f8d7ebb959976497655ec87291a296905eb87b5d8a33727996d1a"
+    },
+    {
+      "path": "runtime/documentary_engine/tools/render_short.py",
+      "origin": "documentary-engine",
+      "source_path": "tools/render_short.py",
+      "source_sha256": "a66ed681dae895f1de5806641ea0946246ae2f1285fc9b8e024c99539382c928",
+      "published_sha256": "3b35bfb9f550fa72cf21ee5293a44786ae646c0d2e5a776b10b29d443cca10c1",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/tools/test_comfy_pipeline.py",
+      "origin": "documentary-engine",
+      "source_path": "tools/test_comfy_pipeline.py",
+      "source_sha256": "9b15799c7d4a9057f4ab881f935d66fbb23b071e8edb23490d75f6ba215f4ba2",
+      "published_sha256": "9b15799c7d4a9057f4ab881f935d66fbb23b071e8edb23490d75f6ba215f4ba2"
+    },
+    {
+      "path": "runtime/documentary_engine/tests/test_prompt_cache.py",
+      "origin": "documentary-engine",
+      "source_path": "tests/test_prompt_cache.py",
+      "source_sha256": "72653b177251fabffc23fd7a7bdb9577a4d25c22f05756634479ee10d5cac6bf",
+      "published_sha256": "72653b177251fabffc23fd7a7bdb9577a4d25c22f05756634479ee10d5cac6bf"
+    },
+    {
+      "path": "runtime/documentary_engine/tests/test_reference_images.py",
+      "origin": "documentary-engine",
+      "source_path": "tests/test_reference_images.py",
+      "source_sha256": "afdb1d3a0b1bd4727ed97ca6029810e2d405bd080c6ed3d62ddbf3ecf2b87e68",
+      "published_sha256": "afdb1d3a0b1bd4727ed97ca6029810e2d405bd080c6ed3d62ddbf3ecf2b87e68"
+    },
+    {
+      "path": "runtime/documentary_engine/tests/test_render_short.py",
+      "origin": "documentary-engine",
+      "source_path": "tests/test_render_short.py",
+      "source_sha256": "67c0be7603674ffe7da65ed37f7b218190ca3b53bba5a5d42af37f6cceee6fee",
+      "published_sha256": "74d4bc491f5f5a444eb6ef27bc78fcb8e12df676d388d070f038e4779cee8654",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "runtime/documentary_engine/tests/test_score_worker.py",
+      "origin": "documentary-engine",
+      "source_path": "tests/test_score_worker.py",
+      "source_sha256": "5076d25246fce9bcd88db8a72473e65b81869d78725b168e1d7c2922d4c50346",
+      "published_sha256": "5076d25246fce9bcd88db8a72473e65b81869d78725b168e1d7c2922d4c50346"
+    },
+    {
+      "path": "docs/drive-automation-v1/CLI-MEDIA-WORKFLOW-PARITY.md",
+      "origin": "documentary-engine",
+      "source_path": "docs/drive-automation-v1/CLI-MEDIA-WORKFLOW-PARITY.md",
+      "source_sha256": "0024ee5fe8791a49c8e7bdce09c908b878b885a04c360a5ccda20d817f926cdd",
+      "published_sha256": "0a39dad73c33d2f36abf32bcd438709a15ea5ab44ab1ef98465ea66ff570ba98",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "docs/drive-automation-v1/DRIVE-INTAKE-CONTRACT.md",
+      "origin": "documentary-engine",
+      "source_path": "docs/drive-automation-v1/DRIVE-INTAKE-CONTRACT.md",
+      "source_sha256": "12385e1c97df92ee0a4cf2de74df1623bca085d368ea74d6e1c8b7615415bf8c",
+      "published_sha256": "038eb939c16b6add8d581c2414c00db0a7f13ec0f9b6e7526f107bd83a7ea69c",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "docs/drive-automation-v1/IMPLEMENTATION-PLAN.md",
+      "origin": "documentary-engine",
+      "source_path": "docs/drive-automation-v1/IMPLEMENTATION-PLAN.md",
+      "source_sha256": "202018ed162768c06e5e7efaf49cf3e74ec146cd4365a07470d7e1f2e5bd5812",
+      "published_sha256": "247e8e765142032a8f1acffa1b5068ba0ef52faa193909189a52ef4c74f8cbc8",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "docs/drive-automation-v1/MEDIA-QUALITY-GATES.md",
+      "origin": "documentary-engine",
+      "source_path": "docs/drive-automation-v1/MEDIA-QUALITY-GATES.md",
+      "source_sha256": "9fda2a6b9939931f436b4703cb31a933ec204651166efb44990e72994a802b34",
+      "published_sha256": "fd6231d312cca9c3cd89e46fb6cf019d7e7d69baa210a19a23ad95ca3365e1f4",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "docs/drive-automation-v1/README.md",
+      "origin": "documentary-engine",
+      "source_path": "docs/drive-automation-v1/README.md",
+      "source_sha256": "514a4f55c3666b55306e1d72e31231e4d30c1faf36ac9c18ef4132f67b6d3f50",
+      "published_sha256": "2968795298a18c257a415be1d0046255904deeaa3d269affe5bcbac6fa2b69e6",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "docs/drive-automation-v1/RESEARCH-AND-DECISIONS.md",
+      "origin": "documentary-engine",
+      "source_path": "docs/drive-automation-v1/RESEARCH-AND-DECISIONS.md",
+      "source_sha256": "1f4bd53651b5c1371465b30943661a1ae42c4cf2b21898347d8c74b6bc6b1d23",
+      "published_sha256": "40dd47db07340af43143fc5d2ee13536243cbc80e468483206853bb755cf5056",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "docs/drive-automation-v1/SPARK-OPERATIONS-AND-RECOVERY.md",
+      "origin": "documentary-engine",
+      "source_path": "docs/drive-automation-v1/SPARK-OPERATIONS-AND-RECOVERY.md",
+      "source_sha256": "2d04e7f778d5e65a918ad4e0db07c5d8af518f9107aac84468cd55b4919e4b46",
+      "published_sha256": "0a8f411b70ab751be806c68b641df7d255630b831f74d714ab83444fdb13c7b2",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "docs/drive-automation-v1/VALIDATION-AND-ROLLOUT.md",
+      "origin": "documentary-engine",
+      "source_path": "docs/drive-automation-v1/VALIDATION-AND-ROLLOUT.md",
+      "source_sha256": "5aa001448f0c7c050401e85ea14216a3ab2f25c2afa2345d9c05d82d679d12df",
+      "published_sha256": "591f90daafb43c844208ee219f8600ee65d6431fb0fbb484c2bf3106cd223714",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    },
+    {
+      "path": "docs/drive-automation-v1/YOUTUBE-UNLISTED-DELIVERY.md",
+      "origin": "documentary-engine",
+      "source_path": "docs/drive-automation-v1/YOUTUBE-UNLISTED-DELIVERY.md",
+      "source_sha256": "3352c0a2752f998eccd49c993c8f460c8f601fd46ad3de15b7f1fdf2b2cacd03",
+      "published_sha256": "6f17be1f3993c2d58fd2cb69153e7a30fd81d1f65e7b2357df6d617a7f3dd53a",
+      "publication_notes": "Portable public paths/references; Shorts score containment or self-contained contract fixture where applicable. See PROVENANCE.md."
+    }
+  ]
+}
