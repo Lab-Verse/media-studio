@@ -1,0 +1,3 @@
+# Lightweight test dependencies; no inference frameworks or model downloads.
+numpy==2.5.1
+soundfile==0.14.0

@@ -12,11 +12,12 @@ Codex crew instructions, production contracts and Python media tools for plannin
    ```sh
    python scripts/validate_studio.py
    python scripts/validate_repository.py
+   python -m pip install -r requirements-test.txt
    python -m unittest discover -s runtime/documentary_engine/tools -p test_comfy_pipeline.py
    python -m unittest discover -s runtime/documentary_engine/tests -p test_render_short.py
    ```
 
-   These checks do not contact Spark, download models or publish media.
+   The first two checks use only the standard library. The adapter tests need the lightweight test dependencies listed above. These checks do not contact Spark, download models or publish media.
 3. Open the checkout as a Codex project and review [AGENTS.md](AGENTS.md). The 13 [crew definitions](docs/CREW-AND-SKILLS.md) and nine project skills provide role instructions. Discovery and actual delegation depend on your installed client and project trust; file validation alone does not prove they load.
 4. Use the fictional [Meter Room example](examples/meter-room/BRIEF.md) for a planning rehearsal. Create real production records under `productions/<slug>` and keep source media in approved private storage.
 5. For rendering, follow the [runtime setup](runtime/documentary_engine/README.md) and [Spark runbook](docs/SPARK-RUNBOOK.md). Use only reviewed inputs and operator-approved resources.

@@ -4,7 +4,7 @@ This directory contains the existing documentary engine plus ComfyUI/Shorts adap
 
 ## Local source and contract checks
 
-From the repository root, Python 3.12 can run the dependency-free adapter tests listed in the root README. Additional tests require Pillow/requests (`test_reference_images.py`), NumPy/soundfile plus FFmpeg/FFprobe (`test_score_worker.py`), or qualified PyTorch/Diffusers/SafeTensors (`test_prompt_cache.py`). A missing dependency is not a passed test. Consult docs/VERIFICATION.md for the executed set.
+From the repository root, Python 3.12 can run the adapter tests listed in the root README after installing `requirements-test.txt` (NumPy and SoundFile). Additional tests require Pillow/requests (`test_reference_images.py`), FFmpeg/FFprobe (`test_score_worker.py`), or qualified PyTorch/Diffusers/SafeTensors (`test_prompt_cache.py`). A missing dependency is not a passed test. Consult docs/VERIFICATION.md for the executed set.
 
 ## Fixture diagnostic
 
